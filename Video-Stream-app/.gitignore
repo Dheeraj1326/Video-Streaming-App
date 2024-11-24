@@ -12,6 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.videos
 
 ### IntelliJ IDEA ###
 .idea
